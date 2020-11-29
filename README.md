@@ -14,4 +14,4 @@
 * vim configs and plugins
 * urxvt plugins
 
-Emre – [@emrygun](https://twitter.com/emrygun) – emre6271@gmail.com
+Emre Uygun – [@emrygun](https://twitter.com/emrygun) – emre6271@gmail.com
