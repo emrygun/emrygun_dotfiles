@@ -1,7 +1,7 @@
 # emrygun Current Dotfiles
 > Dotfiles that I'm currently using
 
-![](header.png)
+![preview](preview.png)
 
 ## Including
 
