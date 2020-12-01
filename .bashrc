@@ -70,11 +70,12 @@ fi
 ######################
 
 #Utilities
+alias v="nvim"
 alias r="ranger"
 alias s="sudo"
 alias ll="ls -l"
 alias dir="dir --color=auto"
-alias editbashrc="vim ~/.bashrc"
+alias editbashrc="v ~/.bashrc"
 alias ..="cd .."
 alias auxfind="ps aux | grep"
 alias tr="trans :tr" #Needs Translate CLI
