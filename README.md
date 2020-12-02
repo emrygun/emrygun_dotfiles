@@ -9,9 +9,6 @@
 * i3blocks.conf
 * .bashrc
 * URXVT .Xresources
-
-## Upcoming
-* vim configs and plugins
-* urxvt plugins
+* vim configs
 
 Emre Uygun – [@emrygun](https://twitter.com/emrygun) – emre6271@gmail.com
