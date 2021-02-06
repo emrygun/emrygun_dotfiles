@@ -19,7 +19,7 @@
 *color15:     #eff0eb
 
 !Font Stuff
-URxvt.font:xft:Victor Mono Medium:pixelsize=12
+URxvt.font:xft:Victor Mono Medium:pixelsize=14
 
 URxvt.scrollBar: false
 

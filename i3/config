@@ -220,5 +220,5 @@ bindsym XF86AudioNext exec playerctl next
 bindsym XF86AudioPrev exec playerctl previous
 
 #Background Image
-exec feh --bg-fill ~/background.png
-
+exec feh --bg-fill ~/Downloads/Black.png
+bindsym Print exec --no-startup-id maim "/home/$USER/Pictures/$(date)"
