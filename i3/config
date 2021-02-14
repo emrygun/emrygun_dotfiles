@@ -207,10 +207,9 @@ bindsym XF86AudioMute exec amixer -q sset Master toggle
 exec xset b off
 
 #Mouse Sensetivity
-exec xset m 5/5 -2.6
-exec xset b 0
-exec xinput --set-prop "Logitech USB Receiver Mouse" "libinput Accel Speed" -0.3
-exec xinput set-prop 'Elan Touchpad' 'libinput Tapping Enabled' 1
+
+exec xinput --set-prop 10 299 -0.4
+exec xinput --set-prop 'Elan Touchpad' 'libinput Tapping Enabled' 1
 
 
 #Multimedia Keys
