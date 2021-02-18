@@ -1,6 +1,7 @@
 # emrygun Current Dotfiles
-> Dotfiles that I'm currently using
-
+Dotfiles that I'm currently using
+<a href="https://gist.github.com/emrygun/1678e1640d8ef8d7648ad292d32fa1c4">My dotfile updater script</a>
+  
 ## Including
 * i3-gaps -> conf
 * i3status.conf
