@@ -1,8 +1,6 @@
 # emrygun Current Dotfiles
 > Dotfiles that I'm currently using
 
-![preview](preview.png)
-
 ## Including
 * i3-gaps -> conf
 * i3status.conf
