@@ -1,7 +1,7 @@
 # emrygun Current Dotfiles
 <h3>Dotfiles that I'm currently using</h3>
 <b>
-<a href="https://gist.github.com/emrygun/1678e1640d8ef8d7648ad292d32fa1c4">My dotfile updater script</a>
+<a href="https://gist.github.com/emrygun/1678e1640d8ef8d7648ad292d32fa1c4">My dotfile updater script</a></br>
 You can easily use it with following command on bash: </b>
 
 ```
