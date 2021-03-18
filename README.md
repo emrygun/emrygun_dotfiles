@@ -1,6 +1,8 @@
 # @emrygun Current Dotfiles
 <h3>Dotfiles that I'm currently using</h3>
-![image](https://user-images.githubusercontent.com/44208853/111664470-d8a6ae80-8822-11eb-869d-088084fb66f9.png)
+
+![image](https://user-images.githubusercontent.com/44208853/111664525-e9572480-8822-11eb-9c45-6200eb258ec5.png)
+
 <b>
 <a href="https://gist.github.com/emrygun/1678e1640d8ef8d7648ad292d32fa1c4">My dotfile updater script</a></br>
 You can easily use the script with following command on bash: </b>
