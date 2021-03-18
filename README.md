@@ -1,7 +1,7 @@
 # @emrygun Current Dotfiles
 <h3>Dotfiles that I'm currently using</h3>
 
-![image](https://user-images.githubusercontent.com/44208853/111664525-e9572480-8822-11eb-9c45-6200eb258ec5.png)
+![image](https://user-images.githubusercontent.com/44208853/111665790-21ab3280-8824-11eb-8b14-eb23592e51c8.png)
 
 <b>
 <a href="https://gist.github.com/emrygun/1678e1640d8ef8d7648ad292d32fa1c4">My dotfile updater script</a></br>
