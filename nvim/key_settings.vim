@@ -1,5 +1,5 @@
-:map <A->> :vertical res +5<CR>
-:map <A-<> :vertical res -5<CR>
+:map <A->> :vertical res +10<CR>
+:map <A-<> :vertical res -10<CR>
 
 " NerdTree
 " autocmd VimEnter * NERDTree

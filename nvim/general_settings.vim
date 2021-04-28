@@ -4,6 +4,9 @@ set pumheight=10
 set number
 set completeopt=menu,menuone,longest
 
+set encoding=UTF-8
+set guifont=DroidSansMono\ Nerd\ Font\ Complete\ 11
+
 " Library paths
 let g:clang_library_path='/usr/lib/llvm-7/lib'
 
@@ -30,8 +33,25 @@ let g:closetag_close_shortcut = '<leader>>'
 
 " Coc
 let g:coc_disable_startup_warning = 1
+let g:coc_global_extensions=[
+      \ 'coc-css',
+      \ 'coc-pairs',
+      \ 'coc-stylelint',
+      \ 'coc-scssmodules',
+      \ 'coc-docker',
+      \ 'coc-eslint',
+      \ 'coc-json',
+      \ 'coc-html',
+      \ 'coc-prettier',
+      \ 'coc-tsserver',
+      \ 'coc-yaml',
+      \ 'coc-vimlsp',
+      \ ]
+
+" Ultisnips
+let g:UltiSnipsExpandTrigger='<c-space>'
 
 " Colorscheme
-colorscheme gruvbox
+colorscheme monokai-phoenix
 
 
