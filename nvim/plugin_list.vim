@@ -21,6 +21,9 @@ call plug#begin()
     Plug 'alvan/vim-closetag'
     Plug 'tpope/vim-surround'
 
+    "Indent lines
+    Plug 'Yggdroot/indentLine'
+
     "Dev Icons
     Plug 'ryanoasis/vim-devicons'
 
@@ -38,6 +41,7 @@ call plug#begin()
     Plug 'Shougo/denite.nvim'
 
     Plug 'sheerun/vim-polyglot'
+
 
 call plug#end()
 

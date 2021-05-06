@@ -5,7 +5,7 @@ set number
 set completeopt=menu,menuone,longest
 
 set encoding=UTF-8
-set guifont=DroidSansMono\ Nerd\ Font\ Complete\ 11
+set guifont=DroidSansMono\ Nerd\ Font
 
 " Library paths
 let g:clang_library_path='/usr/lib/llvm-7/lib'
@@ -46,6 +46,7 @@ let g:coc_global_extensions=[
       \ 'coc-tsserver',
       \ 'coc-yaml',
       \ 'coc-vimlsp',
+      \ 'coc-python'
       \ ]
 
 " Ultisnips

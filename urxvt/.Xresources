@@ -19,7 +19,8 @@
 *color15:     #eff0eb
 
 !Font Stuff
-URxvt.font:xft:Victor Mono Medium:pixelsize=14
+URxvt.font:xft:Victor Mono Nerd Font Mono:pixelsize=14
+!URxvt.font:xft:DroidSansMono Nerd Font
 
 URxvt.scrollBar: false
 
